@@ -2,7 +2,7 @@
 
 Dev:
 ```
-npm run server
+npm run start
 ```
 Build: 
 ```
